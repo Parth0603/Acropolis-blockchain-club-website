@@ -1,6 +1,6 @@
  # Acropolis Blockchain Club Website
 
-Welcome my GitHub repository for the **Acropolis Blockchain Club** website. This project is **PARTH NAGAR**.
+Welcome my GitHub repository for the **Acropolis Blockchain Club** website. This project is made by **PARTH NAGAR**`.
 
 ## 🚀 Tech Stack
 
